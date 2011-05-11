@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLRaindropCreator</key>
+		<string>Nicolas Haunold</string>
+		<key>CLRaindropName</key>
+		<string>TinySong</string>
+		<key>CLRaindropDescription</key>
+		<string>Shortens the selected song using TinySong/Grooveshark.</string>
+		<key>CLRaindropURL</key>
+		<string>http://haunold.me/</string>
+		<key>CLRaindropTargetBundleID</key>
+		<string>com.apple.iTunes</string>
+		<key>CLRaindropDownpourEnabled</key>
+		<false/>
+	</dict>
+</plist>
